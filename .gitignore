@@ -1,1 +1,25 @@
+# Ambiente virtual
+venv/
+env/
+.venv/
 
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Dados grandes (opcional)
+*.xlsx
+
+# Arquivos de modelo treinado (se houver)
+*.pkl
+*.joblib
